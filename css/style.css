@@ -1,0 +1,4 @@
+.beer-slider[data-beer-label]:after,
+.beer-reveal[data-beer-label]:after {
+  text-transform: capitalize;
+}
